@@ -289,7 +289,7 @@ body {
     background-size: contain;
     background-position: center bottom;
     background-repeat: no-repeat;
-    background-image: url(../img/character/bg.png);
+    background-image: url(../img/character/bg.jpg);
     overflow: hidden;
 }
 .character .title {
