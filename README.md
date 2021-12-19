@@ -1,6 +1,6 @@
 ![website](https://user-images.githubusercontent.com/10524945/146676931-1bf45b72-351f-472d-bf22-c71202828693.jpg)
 
-Hello! This is `animal-herb-web` repository which manages Animal herb's web site assets, group information and product news. If you access the url, https://animal-herb.net/, you can see this repository's content.
+Hello! This is `animal-herb-web` repository which manages Animal herb's web site assets, group information and product news. If you access the url, https://animal-herb.com/, you can see this repository's content.
 
 # Get started
 
