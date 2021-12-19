@@ -14,4 +14,6 @@ The structure of the directory is as follows
 
 # We need your help!
 
-We are an INDIE game group, so we don't have enough resource to localize our website. We believe that our content can inspire people all over the world. We need your help to bring our content to the world.
+We are an INDIE game group, so we don't have enough resource to localize our website. We believe that our content can inspire people all over the world. We need your help to bring our content to the world!
+
+Currently, `zh` and `zh-tw` is the most important languages for this website users. If you have a translation and web programing skill, try it!
