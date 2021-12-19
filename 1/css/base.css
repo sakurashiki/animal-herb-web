@@ -635,8 +635,12 @@ footer {
     margin: 0 auto;
     width: 98%;
     max-width: 800px;
-    font-size: 50%;
+    font-size: 75%;
     text-align: center;
+    line-height: 150%;
+}
+footer a {
+    color: inherit;
 }
 
 /* Header */
