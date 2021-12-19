@@ -1,6 +1,6 @@
 ![website](https://user-images.githubusercontent.com/10524945/146676931-1bf45b72-351f-472d-bf22-c71202828693.jpg)
 
-Hello! This is `animal-herb-web` repository which manages Animal herb's web site assets, group information and product news. If you access the url, https://animal-herb.com/, you can see this repository's content.
+Hello! This is `animal-herb-web` repository which manages Animal herb's web site assets, developers information and product news. If you access the url, https://animal-herb.com/, you can see this repository's content.
 
 # Get started
 
@@ -14,6 +14,6 @@ The structure of the directory is as follows
 
 # We need your help!
 
-We are an INDIE game group, so we don't have enough resource to localize our website. We believe that our game can inspire people all over the world. We need your help to bring our game to the world!
+We are an INDIE game developers, so we don't have enough resource to localize our website. We believe that our game can inspire people all over the world. We need your help to bring our game to the world!
 
 Currently, `zh` and `zh-tw` is the most important languages for this website users. If you have a translation and web programing skill, try it!
