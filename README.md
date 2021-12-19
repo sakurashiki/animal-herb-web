@@ -11,3 +11,7 @@ The structure of the directory is as follows
 - / ... Animal herb main page (Currently no content)
   - /1/ja ... Nekomimi Sweet Housemate Web site for Japanese
   - /1/en ... Nekomimi Sweet Housemate Web site for English (Currently no content)
+
+# We need your help!
+
+We are an INDIE game group, so we don't have enough resource to localize our website. We believe that our content can inspire people all over the world. We need your help to bring our content to the world.
