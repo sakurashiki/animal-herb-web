@@ -16,4 +16,4 @@ The structure of the directory is as follows
 
 We are an INDIE game developer, so we don't have enough resource to localize our website. We believe that our game can atract and be impressed with people all over the world, so we need your help to bring our game to them!
 
-Currently, `zh` and `zh-tw` is the most important languages for this website users. If you have a translation and web programing skill, try it!
+Currently, `zh` and `zh-tw` are the most important languages for this website users. If you have a translation and web programing skill, try it!
