@@ -629,6 +629,12 @@ body {
     opacity: 0.75;
 }
 
+.links .request_form {
+    text-align: center;
+    margin-bottom: 16px;
+    font-size: 125%;
+}
+
 footer {
     padding-top: 48px;
     padding-bottom: 20px;
