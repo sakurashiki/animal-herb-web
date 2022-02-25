@@ -1,2 +1,21 @@
 <!DOCTYPE html>
-<meta http-equiv="refresh" content="0;URL=/1/ja/">
+<!--//<meta http-equiv="refresh" content="0;URL=/1/ja/">// End -->
+<!--
+@Author:kx2398
+@DATE:2020-02-25
+自动检测浏览器语言并跳转至对应页面
+Automatically detects the browser language and redirects to the corresponding page
+-->
+<SCRIPT LANGUAGE="javascript1.2">
+if (navigator.appName == 'Netscape')
+var language = navigator.language;
+else
+var language = navigator.browserLanguage;
+
+if (language.indexOf('ja') > -1) document.location.href = '/ja/';
+//else if (language.indexOf('en') > -1) document.location.href = '/1/en/';
+else if (language.indexOf('zh') > -1) document.location.href = '/1/zh/';
+else
+document.location.href = '/1/ja/';
+
+</script>
