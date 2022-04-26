@@ -10,7 +10,8 @@ The structure of the directory is as follows
 
 - / ... Animal herb main page (Currently no content)
   - /1/ja ... Nekomimi Sweet Housemate Web site for Japanese
-  - /1/en ... Nekomimi Sweet Housemate Web site for English (Currently no content)
+  - /1/en ... Nekomimi Sweet Housemate Web site for English
+  - /1/zh ... Nekomimi Sweet Housemate Web site for Chinese
 
 # We need your help!
 
